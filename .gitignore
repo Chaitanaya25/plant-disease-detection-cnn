@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+tf-env/
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Uploaded / test images (IMPORTANT)
+static/uploads/
+*.jpg
+*.jpeg
+*.png
+
+# Large datasets (DO NOT UPLOAD)
+train/
+valid/
+test/
+
+# Model checkpoints (OPTIONAL)
+# Uncomment next line ONLY if model is too large
+# best_model.keras
+# Model files
+*.keras
