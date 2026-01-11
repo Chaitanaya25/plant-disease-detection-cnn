@@ -85,7 +85,7 @@ This project leverages **deep learning and computer vision** to:
 
 Shows excellent diagonal dominance, indicating **very low misclassification across classes**.
 
-![Confusion Matrix](Images/cm.png)
+![Confusion Matrix](cm.png)
 
 ---
 
@@ -93,7 +93,7 @@ Shows excellent diagonal dominance, indicating **very low misclassification acro
 
 Nearly all classes achieve **F1-scores close to 1.0**, reflecting balanced precision and recall.
 
-![F1 Score](Images/f1.png)
+![F1 Score](f1.png)
 
 ---
 
@@ -101,7 +101,7 @@ Nearly all classes achieve **F1-scores close to 1.0**, reflecting balanced preci
 
 Demonstrates **tight clustering near (1.0, 1.0)**, confirming strong model reliability.
 
-![Precision vs Recall](Images/pvsr.png)
+![Precision vs Recall](pvsr.png)
 
 ---
 
